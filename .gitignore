@@ -1,0 +1,16 @@
+/.utmp
+/.vscode
+/Assembly-CSharp.csproj
+/Library
+/Logs
+/Pinceladas de Color VR_BurstDebugInformation_DoNotShip
+/SkyegroupVR.sln
+/Unity.XR.Hands.Samples.VisualizerSample.csproj
+/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj
+/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj
+/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj
+/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj
+/UserSettings
+/globalhitsvr.sln
+/mono_crash.mem.3384.1.blob
+/mono_crash.mem.4396.1.blob

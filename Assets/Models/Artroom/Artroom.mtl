@@ -1,0 +1,13 @@
+# Blender 4.4.0 MTL File: 'Artroom.blend'
+# www.blender.org
+
+newmtl Art_Room1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Art room01_Art_Room1_BaseColor.png
+map_Ke textures/Art room01_Art_Room1_Emissive.png
+map_Bump -bm 1.000000 textures/Art room01_Art_Room1_Normal.png
