@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/crissilvafr/Unity/Projects/globalhitsvr/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/home/crissilvafr/Unity/Projects/globalhitsvr/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/crissilvafr/Unity/Projects/globalhitsvr/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Assembly-CSharp.csproj",
+        "packagesPath": "/home/crissilvafr/.nuget/packages/",
+        "outputPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Temp/obj/Debug/Assembly-CSharp/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/crissilvafr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+                "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Hands.Samples.VisualizerSample.csproj"
+              },
+              "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+                "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+              },
+              "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+                "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+              },
+              "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+                "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+              },
+              "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+                "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Hands.Samples.VisualizerSample.csproj",
+        "projectName": "Unity.XR.Hands.Samples.VisualizerSample",
+        "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Hands.Samples.VisualizerSample.csproj",
+        "packagesPath": "/home/crissilvafr/.nuget/packages/",
+        "outputPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Temp/obj/Debug/Unity.XR.Hands.Samples.VisualizerSample/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/crissilvafr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor",
+        "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+        "packagesPath": "/home/crissilvafr/.nuget/packages/",
+        "outputPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Temp/obj/Debug/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/crissilvafr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.Hands",
+        "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+        "packagesPath": "/home/crissilvafr/.nuget/packages/",
+        "outputPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Temp/obj/Debug/Unity.XR.Interaction.Toolkit.Samples.Hands/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/crissilvafr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor",
+        "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+        "packagesPath": "/home/crissilvafr/.nuget/packages/",
+        "outputPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Temp/obj/Debug/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/crissilvafr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets",
+        "projectPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+        "packagesPath": "/home/crissilvafr/.nuget/packages/",
+        "outputPath": "/home/crissilvafr/Unity/Projects/globalhitsvr/Temp/obj/Debug/Unity.XR.Interaction.Toolkit.Samples.StarterAssets/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/crissilvafr/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
